@@ -11,3 +11,9 @@
 # c) se scrollea horizontalmente hacia la izquierda y la derecha
 
 # c)Los datos de la tabla estan harcodeados en un array ,si ingresas un dato desde 'reservar' estos se muestran en la tabla con su (hora desde -hora hasta) y su nombre ,ni bien actualizas la pagina vuelve a su estado original de cantidad de datos que tiene el array de objetos 
+
+# COMO LEVANTAR EL PROYECTO :
+# 1-) CLONAR EL PROYECTO
+# 2-) npm install (PARA INSTALAR LAS DEPENDENCIAS)
+# 3-) npm run serve (CORREMOS EL SERVIDOR DE VUEJS)
+
